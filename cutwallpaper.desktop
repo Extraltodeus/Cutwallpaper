@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin,image/*
+Actions=Setwallpaper;
+X-KDE-AuthorizeAction=shell_access
+
+[Desktop Action Setwallpaper]
+Exec=sh #PATH TO WHERE YOU PUT THE SCRIPT
+Icon=#PATH TO AN ICON YOU LIKE
+Name[fr]=Couper en trois
+Name[en_GB]=Cut in three
