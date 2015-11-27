@@ -1,5 +1,6 @@
 #!/bin/bash
 #This script requires imagemagick
+#This version is for triple wallpapers
 
 image="$*"
 fichier=${image##*/}
